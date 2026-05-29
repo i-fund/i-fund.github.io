@@ -1,10 +1,11 @@
-# 实盘
 
-1. [持仓记录](https://i-fund.github.io/position)
+## 实盘
 
-2. [历年收益](https://i-fund.github.io/profit)
+* [持仓记录](https://i-fund.github.io/position)
 
-# 研究
+* [历年收益](https://i-fund.github.io/profit)
 
-1. [债券](https://i-fund.github.io/bond)
+## 研究
+
+* [债券](https://i-fund.github.io/bond)
 
