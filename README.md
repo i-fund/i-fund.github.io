@@ -7,5 +7,5 @@
 
 ## 研究
 
-* [债券](https://i-fund.github.io/bond)
+* [QDII债券](https://i-fund.github.io/bond)
 
