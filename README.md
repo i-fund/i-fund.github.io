@@ -1,7 +1,7 @@
 
 ## 实盘
 
-* [持仓记录](https://i-fund.github.io/position)
+* [当前持仓](https://i-fund.github.io/position)
 
 * [历年收益](https://i-fund.github.io/profit)
 
