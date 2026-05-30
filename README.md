@@ -1,7 +1,8 @@
 
-## 实盘
+## 基金运作
+目标是年化8～10%，回撤10%以内。每月最后一个周五记录持仓。
 
-* [当前持仓](https://i-fund.github.io/position)
+* [20260529持仓](https://i-fund.github.io/position)
 
 * [历年收益](https://i-fund.github.io/profit)
 
