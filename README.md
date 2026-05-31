@@ -8,7 +8,7 @@
 
 ## 数据
 
-* [指数](https://i-fund.github.io/index)
+* [指数](https://i-fund.github.io/fundindex)
 
 ## 研究
 
