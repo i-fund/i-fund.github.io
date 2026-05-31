@@ -6,6 +6,10 @@
 
 * [历年收益](https://i-fund.github.io/profit)
 
+## 数据
+
+* [指数](https://i-fund.github.io/index)
+
 ## 研究
 
 * [QDII债券](https://i-fund.github.io/bond)
