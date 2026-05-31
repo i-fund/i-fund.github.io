@@ -12,5 +12,6 @@
 
 ## 研究
 
+* [股市回报等式](https://i-fund.github.io/return)
 * [QDII债券](https://i-fund.github.io/bond)
 
