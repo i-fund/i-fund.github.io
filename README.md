@@ -14,5 +14,5 @@
 ## 研究
 
 * [股市回报等式](https://i-fund.github.io/return)
-* [巴菲特推荐的标普500](https://i-fund.github.io/return)
+* [巴菲特推荐的标普500](https://i-fund.github.io/sp500)
 
