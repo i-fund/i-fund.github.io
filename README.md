@@ -2,7 +2,7 @@
 ## 基金运作
 
 * [20260529持仓](https://i-fund.github.io/position)
-
+* [历史持仓](https://i-fund.github.io/history)
 * [历年收益](https://i-fund.github.io/profit)
 
 ## 数据
