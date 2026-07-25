@@ -7,7 +7,6 @@
 ## 数据
 
 * [指数](https://i-fund.github.io/fundindex)
-* [QDII债券](https://i-fund.github.io/bond)
 
 ## 研究
 
