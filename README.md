@@ -15,5 +15,7 @@
 * [为什么不投资黄金](https://i-fund.github.io/gold)
 * [高利率下狂飙的美股](https://i-fund.github.io/20260908)
 * [forward PE有多准](https://i-fund.github.io/20260909)
+* [为什么不要timing](https://i-fund.github.io/20261105)
+
 
 
